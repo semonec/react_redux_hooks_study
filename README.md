@@ -256,7 +256,7 @@ export default App;
 
 ### If we do not seperate Presentational/ Container ? ###
 
-> <i>"Hooks let me do the same thing without an arbitrary division," [original](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0#99d5)
+> <i>"Hooks let me do the same thing without an arbitrary division," [original](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0#99d5)</i>
 
 When you use a component, do not use props, create a custom Hook with `useSelector` and `useDispatch`, use it.
 
