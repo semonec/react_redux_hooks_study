@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Welcome to Jekyll!"
+date:   2019-07-26 11:49:00 +0900
+categories: Post
+comments: true
+---
 # react_redux_hooks_study with typescript
 
 [Refs](https://velog.io/@velopert/use-typescript-and-redux-like-a-pro)
