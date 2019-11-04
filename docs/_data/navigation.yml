@@ -1,0 +1,15 @@
+main:
+  - title: "Posts"
+    url: /posts/
+  - title: "Tags"
+    url: /tags/
+  - title: "About"
+    url: /about/
+  - title: "Categories"
+    url: /categories/
+
+docs:
+  - title: Documents
+    children:
+      - title: "React redux hooks"
+        url: "/react_redux_hooks_study"
