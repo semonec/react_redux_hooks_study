@@ -1,8 +1,7 @@
 ---
-layout: post
-title:  "Welcome to Jekyll!"
+title:  "React Redux Hooks with Typescript 101"
 date:   2019-07-26 11:49:00 +0900
-categories: Post
+categories: Documents
 comments: true
 ---
 # react_redux_hooks_study with typescript
