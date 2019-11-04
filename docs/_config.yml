@@ -119,7 +119,19 @@ defaults:
       comments: false
       sidebar:
         nav: "docs"
-
+  - scope:
+      path: "react_redux_hooks_study"
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true  
+      sidebar:
+        nav: "docs"
+        
 category_archive:
   type: liquid
   path: /categories/
